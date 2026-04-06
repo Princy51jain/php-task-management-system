@@ -2,13 +2,8 @@
 ### A simple Task Management System built with PHP, MySQL, and XAMPP that allows users (admin and employees) to manage tasks, assign roles, track task progress, and receive notifications.
 
 
-## Full Tutorial
-
-[On Youtube](https://www.youtube.com/playlist?list=PL2WFgdVk-usHC-HHC0SkpsmHquwHB0Aiy)
-
-## DEMO
-
-[DEMO](https://youtu.be/Ff3ug0eqrWI)
+## Note
+This project is based on an open-source task management system and has been modified and enhanced with additional features and improvements.
 
 ## Features
 
